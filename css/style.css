@@ -1,0 +1,10 @@
+body {
+  margin-top: 7rem; }
+
+.navbar {
+  box-shadow: 2px 2px 5px #009873;
+  opacity: 0.9;
+  background: #fff; }
+  .navbar .navitem {
+    font-size: 1.4rem;
+    padding-right: 1.4rem; }
